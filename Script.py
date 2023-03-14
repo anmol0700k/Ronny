@@ -22,17 +22,17 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href=https://t.me/Anmol0700>[ɪɴᴅɪᴀɴ ᴛᴏɴʏ ꜱᴛᴀʀᴋ]</a>
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href=https://t.me/CODExZEUS>[ᴄᴏᴅᴇxᴢᴇᴜꜱ]</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
 ○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Heroku 
-○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href=https://www.mongodb.com/>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
+○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href=https://t.me/CODExZEUS>[ᴄᴏᴅᴇxᴢᴇᴜꜱ]</a>
 ○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : 𝖵9.8 [BeTa]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝗧𝗵𝗶𝘀 𝗜𝘀 𝗡𝗼𝘁 𝗔 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁. 
-- Source -  <a href=https://t.me/+zSBT7Ednrf9kN2Y1>[ɪɴᴅɪᴀɴ ᴛᴏɴʏ ꜱᴛᴀʀᴋ]</a>
+- Source -  <a href=https://t.me/CODExZEUS>[ᴄᴏᴅᴇxᴢᴇᴜꜱ]</a>
 <b>DEVS:</b>
-- <a href=https://t.me/+zSBT7Ednrf9kN2Y1>[ɪɴᴅɪᴀɴ ᴛᴏɴʏ ꜱᴛᴀʀᴋ]</a>"""
+- <a href=https://t.me/CODExZEUS>[ᴄᴏᴅᴇxᴢᴇᴜꜱ]</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
     
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -52,7 +52,7 @@ class script(object):
 2. Eva Maria supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/CODExZEUS)</code>
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
